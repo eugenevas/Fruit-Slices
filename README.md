@@ -1,3 +1,4 @@
 # Features
 Cutting fruits
-Game with 2 modes
+
+2 modes
